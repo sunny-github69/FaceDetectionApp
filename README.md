@@ -1,5 +1,3 @@
 # FaceDetectionApp
-This is a face detection android app using machine learning kit on firebase. 
-In this app which user have to click on camera button on the home page to open a camera 
-and then it will detect the face and show the number of face count in  dialog box.
- 
+
+ This is a face detection Android app that utilizes the Machine Learning Kit on Firebase. In this app, the user is required to click on the camera button on the home page to open the camera. Once the camera is activated, the app will detect faces and display the face count in a dialog box. Additionally, it will provide information such as the smile percentage and the positions of the left and right eyes for each detected face.
